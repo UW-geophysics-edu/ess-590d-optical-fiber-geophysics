@@ -28,9 +28,13 @@
 
 ## Schedule
 9/30 - Electromagnetic wave propagation
+
 ** Seattle DAS “Tap Test” Fieldwork **
+
 10/7 - Optical Fibers
+
 ** Homework #1 about EM DUE **
+
 10/14 - No Class (Course time compensated by Tap Test)
 10/21 - Distributed Optical Fiber Sensing
 10/28 - Distributed Optical Fiber Sensing
