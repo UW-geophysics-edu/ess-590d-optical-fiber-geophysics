@@ -27,23 +27,15 @@
 - Lot’s more possible!
 
 ## Schedule
-9/30 - Electromagnetic wave propagation
-
-** Seattle DAS “Tap Test” Fieldwork **
-
-10/7 - Optical Fibers
-
-** Homework #1 about EM DUE **
-
-10/14 - No Class (Course time compensated by Tap Test)
-10/21 - Distributed Optical Fiber Sensing
-10/28 - Distributed Optical Fiber Sensing
-** Homework #2 about DFOS DUE**
-** Arrival of the Alaska Data **
-11/4 - Student-Lead Paper + Data Analysis
-11/11 - No Class / Veterans’ Day
-11/18 - Student-Lead Paper + Data Analysis
-11/25 - No Class / Thanksgiving
-12/2 - Student-Lead Paper + Data Analysis
-12/9 - Student-Lead Paper + Data Analysis
-12/16 - Final Data analysis text + Figure due
+- 9/30 - Electromagnetic wave propagation 
+- 10/7 - Optical Fibers ** Seattle DAS “Tap Test” Fieldwork **
+- 10/14 - No Class ** Homework #1 about EM DUE **
+- 10/21 - Distributed Optical Fiber Sensing
+- 10/28 - Distributed Optical Fiber Sensing ** Homework #2 about DFOS DUE** and ** Arrival of the Alaska Data **
+- 11/4 - Student-Lead Paper + Data Analysis 
+- 11/11 - No Class / Veterans’ Day
+- 11/18 - Student-Lead Paper + Data Analysis
+- 11/25 - No Class / Thanksgiving
+- 12/2 - Student-Lead Paper + Data Analysis
+- 12/9 - Student-Lead Paper + Data Analysis
+- 12/16 - Final Data analysis text + Figure due
