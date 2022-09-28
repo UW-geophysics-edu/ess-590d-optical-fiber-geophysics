@@ -1,7 +1,7 @@
 # Optical Fiber Geophysics (ESS 490d/590d)
+> Just as the 20th century was the century of the electron, the 21st century will be the century of the photon.
 
 ## Motivation
-- "Just as the 20th century was the century of the electron, the 21st century will be the century of the photon."
 - Distributed optical fiber sensors are the biggest revolution in geophysical instrumentation since digitization.
 - We will learn about how these systems work. We will focus on the general physical principles that explain how present-day technologies work while keeping an open mind about future sensing tech that we haven’t even dreamed of yet.
 - A significant new Distributed Acoustic Sensing dataset from the Cook Inlet, Alaska, will come online mid-way through the course.
