@@ -28,7 +28,7 @@
 
 ## Schedule
 - 9/30 - Electromagnetic wave propagation 
-- 10/7 - Optical Fibers ** Seattle DAS “Tap Test” Fieldwork **
+- 10/7 - Optical Fibers **Seattle DAS “Tap Test” Fieldwork**
 - 10/14 - No Class ** Homework #1 about EM DUE **
 - 10/21 - Distributed Optical Fiber Sensing
 - 10/28 - Distributed Optical Fiber Sensing ** Homework #2 about DFOS DUE** and ** Arrival of the Alaska Data **
