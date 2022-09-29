@@ -17,21 +17,12 @@
 - In-class project presentation
 - Delivery of project code, text, and figures — Only required for 590 students
 
-## Analyses
-- Surface Gravity Waves (Williams 2022, Pablo, Lindsey)
-- Scholte Waves; Shallow imaging (Spika, Viens)
-- Whales
-- Earthquakes (tectonic and volcanic; local, regional, and teleseismic)
-- Anthropogenic phenomena
-- Mapping faults using earthquake codas
-- Lot’s more possible!
-
 ## Schedule
-- 9/30 - **Lecture** Electromagnetic wave propagation.
-- 10/7 - **Lecture** Optical Fibers. **Field experience**: Seattle DAS “Tap Test” 
+- 9/30 - **Lecture** From Maxwell's Equations to DAS, Part 1.
+- 10/7 - **Lecture** From Maxwell's Equations to DAS, Part 2. **Field experience**: Seattle DAS “Tap Test” 
 - 10/14 - **No Lecture**. **Homework #1** wave propagation DUE.
-- 10/21 - **Lecture** Distributed Optical Fiber Sensing
-- 10/28 - **Lecture** Distributed Optical Fiber Sensing. **Homework #2** about DFOS DUE. **Arrival of the Alaska Data**
+- 10/21 - **Lecture** From Maxwell's Equations to DAS, Part 3.
+- 10/28 - **Lecture** From Maxwell's Equations to DAS, Part 4. **Homework #2** about DFOS DUE. **Arrival of the Alaska Data**
 - 11/4 -  **Lecture** Literature survey and initial data analysis (student-lead)
 - 11/11 - No Class / Veterans’ Day
 - 11/18 - **Lecture** Literature survey and initial data analysis (student-lead)
@@ -39,3 +30,12 @@
 - 12/2 - **Lecture** Literature survey and initial data analysis (student-lead)
 - 12/9 - **Lecture** Literature survey and initial data analysis (student-lead)
 - 12/16 - **Final** Data analysis code, text, and figures due
+
+## Possible topics for your data analysis project
+- Surface Gravity Waves (Williams 2022, Pablo, Lindsey)
+- Scholte Waves; Shallow imaging (Spika, Viens)
+- Whales
+- Earthquakes (tectonic and volcanic; local, regional, and teleseismic)
+- Anthropogenic phenomena
+- Mapping faults using earthquake codas
+- ...
