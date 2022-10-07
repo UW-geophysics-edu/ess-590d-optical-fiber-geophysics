@@ -39,3 +39,7 @@
 - Anthropogenic phenomena
 - Mapping faults using earthquake codas
 - ...
+
+## Useful reading
+- Parts of the lectures will follow Buck, "Fundamentals of Optical Fibers".
+- A good review of E&M is provided by Griffiths "Introduction to Electrodynamics"
