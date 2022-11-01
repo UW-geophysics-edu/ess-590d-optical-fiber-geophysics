@@ -2,6 +2,8 @@
 
 We switch gears in the second part of the class to focus on two recent datasets from Western Washington.  We will have the ambitious goal of submitting a peer-reviewed journal article concerning the Cook Inlet Dataset. We would target a publication in the new Diamond Open Access journal, Seismica. Seismica mirrors the “DataVerse” format of SRL: https://www.seismosoc.org/publications/srl/srl-data-mine-author-information/.  Here are some ideas to get us started thinking about what we might puruse with these datasets:
 
+## Find the taps
+I found some of the taps from our tap test. We could find the rest of them and possibly re-do part of the survey with heaftier hammer swings.  We could then estimate the channel number -- channel location relationship using this data.
 
 ## Earthquake seismology
 J., Lindsey N., Martin, E. R., Dreger, D. S., Freifeld, B., Cole, S., James, S. R.,… Ajo-Franklin, J. B. (2017). Fiber-optic network observations of earthquake wavefields. Geophysical Research Letters, 44, 11,792– 11,799. https://doi.org/10.1002/2017GL075722
