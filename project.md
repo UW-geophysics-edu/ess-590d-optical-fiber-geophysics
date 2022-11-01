@@ -5,3 +5,5 @@ Martin, E.R., Lindsey, N.J., Ajo-Franklin, J.B. and Biondi, B.L. (2021). Introdu
 
 # Site Characterization
 Spica, Z. J., Perton, M., Martin, E. R., Beroza, G. C., & Biondi, B. (2020). Urban seismic site characterization by fiber-optic seismology. Journal of Geophysical Research: Solid Earth, 125, e2019JB018656. https://doi.org/10.1029/2019JB018656
+
+see also: [Seattle Depth-To-Bedrock Map](https://pubs.usgs.gov/mf/1692/plate-1.pdf)
