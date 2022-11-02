@@ -21,5 +21,8 @@ Spica, Z. J., Perton, M., Martin, E. R., Beroza, G. C., & Biondi, B. (2020). Urb
 
 see also: [Seattle Depth-To-Bedrock Map](https://pubs.usgs.gov/mf/1692/plate-1.pdf)
 
+## Deeper imaging
+Cascadia velocity model: https://pubs.er.usgs.gov/publication/ofr20171152
+
 ## Good review paper for more ideas
 Nathaniel J. Lindsey and Eileen R. Martin. Fiber-Optic Seismology. Annual Review of Earth and Planetary Sciences 2021 49:1, 309-336. https://doi.org/10.1146/annurev-earth-072420-065213
